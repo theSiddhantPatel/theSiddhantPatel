@@ -34,8 +34,8 @@ Passionate about building scalable web applications and diving deep into open-so
 
 ## 🌎 Connect with Me
 
-https://x.com/_SiddhantPatel
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush--sharma/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theSiddhantPatel/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@meayush)
 
 ---
