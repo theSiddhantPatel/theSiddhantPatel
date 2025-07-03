@@ -9,7 +9,7 @@ Passionate about building scalable web applications and diving deep into open-so
 ## 🔥 About Me
 
 - 🌱 I am a full stack developer
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1ztMYIo4-S3DyBI3Nb_ZhZ1qHeSqW-qZy/view?usp=sharing)
+- 📄 Check out my [Resume](https://docs.google.com/document/d/1ouz3itm3f1vLsyI5hB25AQN4vNQRAaAOWiy_vn7oxBs/edit?tab=t.0)
 
 ---
 
