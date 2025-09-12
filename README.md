@@ -9,7 +9,7 @@ Passionate about building scalable web applications and diving deep into open-so
 ## 🔥 About Me
 
 - 🌱 I am a full stack developer
-- 📄 Check out my [Resume](https://docs.google.com/document/d/1ouz3itm3f1vLsyI5hB25AQN4vNQRAaAOWiy_vn7oxBs/edit?tab=t.0)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1hiVKZZMoPucvWTLCxx5T6rXCuvlo9J2K/view?usp=sharing)
 
 ---
 
@@ -36,7 +36,7 @@ Passionate about building scalable web applications and diving deep into open-so
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SiddhantPatel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theSiddhantPatel/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@meayush)
+
 
 ---
 
