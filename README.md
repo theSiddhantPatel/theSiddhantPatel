@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer
 
-Passionate about building scalable web applications and diving deep into open-source contributions.
+#### Passionate about building scalable web applications, exploring distributed systems, and applying chess-inspired strategy and foresight to solve complex technological challenges.
 
 ---
 
