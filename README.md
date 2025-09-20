@@ -8,8 +8,9 @@ Passionate about building scalable web applications and diving deep into open-so
 
 ## 🔥 About Me
 
-- 🌱 I am a full stack developer
+- 🌱 I am a full-stack developer.
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1hiVKZZMoPucvWTLCxx5T6rXCuvlo9J2K/view?usp=sharing)
+- 🤝 Open to collaborating on exciting projects.
 
 ---
 
@@ -50,7 +51,16 @@ Passionate about building scalable web applications and diving deep into open-so
 
 ## 📊 GitHub Stats
 
-![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesiddhantpatel&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thesiddhantpatel&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddhantpatel&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
