@@ -9,7 +9,7 @@
 ## 🔥 About Me
 
 - 🌱 I am a full-stack developer.
-- 📄 Check out my [Resume](resume.siddpatel.com)
+- 📄 Check out my [Resume](resume.pdf)
 - 🤝 Open to collaborating on exciting projects.
 
 ---
