@@ -1,12 +1,12 @@
 # Hi, I'm Siddhant Patel! 👋
 
-### 🚀 Full Stack Developer
+### Full Stack Developer
 
 #### Passionate about building scalable web applications, exploring distributed systems, and applying chess-inspired strategy and foresight to solve complex technological challenges.
 
 ---
 
-## 🔥 About Me
+##  About Me 
 
 - 🌱 I am a full-stack developer.
 - 📄 Check out my [Resume](https://resume.siddpatel.com)
@@ -81,7 +81,7 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thesiddhantpatel&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=theSiddhantPatel&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
