@@ -32,6 +32,15 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Machine Learning Tools
+## 🔧 Machine Learning Tools
+- [Scikit-learn](https://scikit-learn.org/stable/) - Classic ML library in Python for regression, classification, clustering, and preprocessing.
+- [Keras](https://keras.io/) - High-level neural networks API running on top of TensorFlow.
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/) - Optimized gradient boosting library for structured/tabular data.
+- [LightGBM](https://lightgbm.readthedocs.io/en/stable/) - Fast, distributed gradient boosting framework by Microsoft.
+- [MLflow](https://mlflow.org/) - Open-source platform for managing ML lifecycle (experimentation, reproducibility, deployment).
+- [DVC](https://dvc.org/) - Data Version Control for ML projects, enabling reproducibility and collaboration.
+- [Hugging Face Transformers](https://huggingface.co/transformers/) - State-of-the-art NLP models and tools.
+- [Apache Spark MLlib](https://spark.apache.org/mllib/) - Scalable machine learning library built on Apache Spark.
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
