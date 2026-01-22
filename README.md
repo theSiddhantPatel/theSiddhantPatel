@@ -32,15 +32,17 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Machine Learning Tools
-## 🔧 Machine Learning Tools
-- [Scikit-learn](https://scikit-learn.org/stable/) - Classic ML library in Python for regression, classification, clustering, and preprocessing.
-- [Keras](https://keras.io/) - High-level neural networks API running on top of TensorFlow.
-- [XGBoost](https://xgboost.readthedocs.io/en/stable/) - Optimized gradient boosting library for structured/tabular data.
-- [LightGBM](https://lightgbm.readthedocs.io/en/stable/) - Fast, distributed gradient boosting framework by Microsoft.
-- [MLflow](https://mlflow.org/) - Open-source platform for managing ML lifecycle (experimentation, reproducibility, deployment).
-- [DVC](https://dvc.org/) - Data Version Control for ML projects, enabling reproducibility and collaboration.
-- [Hugging Face Transformers](https://huggingface.co/transformers/) - State-of-the-art NLP models and tools.
-- [Apache Spark MLlib](https://spark.apache.org/mllib/) - Scalable machine learning library built on Apache Spark.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
