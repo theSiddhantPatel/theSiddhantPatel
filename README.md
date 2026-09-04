@@ -26,27 +26,5 @@ Core Stack:   Java, TypeScript, Node.js, Python, React/Next.js, AWS, PostgreSQL
 Focus:        Scalable REST APIs, Distributed Systems & Applied ML Pipelines
 Philosophy:   "Think 3 moves ahead — in chess and in software design."
 Open To:      Full-Time Roles & High-Impact Engineering Teams
-💼 Experience
-Software Developer Intern | SoftPro
-Oct 2024 – Dec 2024
-
-Architected and deployed production RESTful APIs using Node.js / Express and MongoDB.
-Implemented Redis caching, significantly reducing database query latency for high-traffic endpoints.
-Built containerized workflows using Docker and automated CI/CD checks via GitHub Actions.
-Collaborated in an Agile sprint environment, conducting code reviews and maintaining test coverage.
-🛠 Tech Stack
-
-
-ML & Data: PyTorch • TensorFlow • Scikit-learn • MLflow • Apache Spark • Hugging Face
-
-🚀 Featured Projects
-📌 Project	📝 Highlights & Architecture	⚡ Tech Stack	🔗 Links
-Scalable Web Platform	Multi-tenant platform with JWT authentication, role-based access control, and real-time synchronization.	Next.js TypeScript PostgreSQL Prisma	Demo • Code
-Distributed Task Scheduler	Asynchronous job scheduler with worker pools, fault tolerance, and queue monitoring under load.	Java Spring Boot Redis Docker	Demo • Code
-End-to-End ML Pipeline	Production ML pipeline featuring data preprocessing, model tracking via MLflow, and containerized API serving.	Python PyTorch MLflow FastAPI	Demo • Code
-📊 GitHub Activity & Streak
-GitHub Streak
-
-♟️ "Every move counts — on the board and in the codebase."
 
 ```
