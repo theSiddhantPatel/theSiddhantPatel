@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Siddhant%20Patel&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Siddhant%20Patel&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Developer&descAlignY=62&descSize=18"/>
 
 <p align="center">
   <a href="https://resume.siddpatel.com">
