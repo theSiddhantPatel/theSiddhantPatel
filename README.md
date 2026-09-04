@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Siddhant%20Patel&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Siddhant%20Patel&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descAlignY=62&descSize=18"/>
 
 <p align="center">
   <a href="https://resume.siddpatel.com">
@@ -22,12 +22,12 @@
 
 ---
 
-### 📌 Professional Summary
+### 📌 About Me
 
 ```yaml
 Candidate:    Siddhant Patel
 Target Roles: Full Stack Engineer / Backend Engineer / Software Engineer
 Core Stack:   Java, TypeScript, Node.js, Python, React/Next.js, AWS, PostgreSQL
-Strengths:    Scalable REST APIs, Microservices, Applied AI/ML Pipelines, Strategic Problem Solving
-Availability: Open to Full-Time Roles & High-Impact Engineering Teams
-Location:     India (Open to Relocation & Remote)
+Focus:        Scalable REST APIs, Distributed Systems & Applied ML Pipelines
+Philosophy:   "Think 3 moves ahead — in chess and in software design."
+Open To:      Full-Time Roles & High-Impact Engineering Teams
