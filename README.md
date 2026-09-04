@@ -26,5 +26,3 @@ Core Stack:   Java, TypeScript, Node.js, Python, React/Next.js, AWS, PostgreSQL
 Focus:        Scalable REST APIs, Distributed Systems & Applied ML Pipelines
 Philosophy:   "Think 3 moves ahead — in chess and in software design."
 Open To:      Full-Time Roles & High-Impact Engineering Teams
-
-```
