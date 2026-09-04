@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Siddhant%20Patel&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20|%20Distributed%20Systems%20%26%20AI&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Siddhant%20Patel&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=62&descSize=18"/>
 
 <p align="center">
-  <a href="https://resume.siddpatel.com" target="_blank">
+  <a href="https://resume.siddpatel.com">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-00C853?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SiddhantPatel-/" target="_blank">
+  <a href="https://www.linkedin.com/in/SiddhantPatel-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.siddpatel.com/" target="_blank">
+  <a href="https://www.siddpatel.com/">
     <img src="https://img.shields.io/badge/Portfolio-Live-181717?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
